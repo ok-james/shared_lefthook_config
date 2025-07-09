@@ -1,4 +1,4 @@
-pre-commit:
+pre-push:
   scripts:
-    "prevent_commit_to_main":
+    "prevent_push_to_main.sh":
       runner: bash
