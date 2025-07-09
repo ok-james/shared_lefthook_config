@@ -1,0 +1,4 @@
+pre-commit:
+  scripts:
+    "prevent_commit_to_main":
+      runner: bash
